@@ -12,14 +12,17 @@ else:
     st.stop()
 
 st.markdown("""
-# 🚀 AI MASTER OS — LEVEL 37
+# 🚀 AI MASTER OS — LEVEL 72
 
-### Hệ điều hành AI đa trang
+### Hệ điều hành AI đa trang đã public thành công
 
-✅ Video Studio  
-✅ Movie OS  
-✅ Brand Empire  
-✅ Business Empire  
-✅ Automation  
+✅ Video Studio
+✅ Movie OS
+✅ Brand Empire
+✅ Business Empire
+✅ Automation
 ✅ Dashboard
+✅ Memory System
+✅ Prompt History
+✅ Upload ảnh tham chiếu Veo 3
 """)
